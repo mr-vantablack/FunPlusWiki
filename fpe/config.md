@@ -27,3 +27,9 @@ Toggles the scoreboard feature.
 
 ## ScoreboardKeyCode
 The key that turns on the scoreboard.
+
+## HideHUDKeyCode
+The key that toggles the HUD hiding.
+
+## ProneKeyCode
+The key that toggles the prone.
